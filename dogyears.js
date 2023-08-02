@@ -26,6 +26,8 @@ console.log(laterYears)
 myAgeInDogYears = earlyYears + laterYears
 console.log (myAgeInDogYears)
 
-let myName = 'Giulia'.toLowerCase()
 /* A próxima linha de código converterá o meu nome para letras minúsculas. */
+let myName = 'Giulia'.toLowerCase()
+
+/* Agora, o código abaixo irá substituir as variáveis com as minhas informações e mostrar a minha idade humana e em vida de cão. */
 console.log(`Meu nome é ${myName}. Tenho ${myAge} anos humanos, que são ${myAgeInDogYears} anos em anos de cão.`)
